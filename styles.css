@@ -98,7 +98,7 @@ body {
 
   /* === AJUSTES QUE PUEDES MODIFICAR === */
   top: -30px;      /* cuánto sube dentro del azul */
-  bottom: -0px;   /* cuánto baja dentro del azul */
+  bottom: 0px;   /* cuánto baja dentro del azul */
   left: -1000px;     /* cuánto se extiende a la izquierda */
   right: -54px;    /* cuánto se extiende a la derecha */
   /* =================================== */
